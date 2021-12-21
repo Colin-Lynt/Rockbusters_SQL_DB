@@ -18,5 +18,11 @@ The data was provided by my data analytics course, **Career Foundry**. The data 
 
 - [Click Here to Download Rockbusters data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
+## Tools
+For this project, the following applications were utilized.
+
+- PostgreSQL
+- Tableau
+
 ## Link to Tableau Story Board
 - [Rockbusters Tableau Story Board Graphics](https://public.tableau.com/app/profile/colin8384/viz/FinalProject3_10Graphics/CustomersbyRegion).
