@@ -14,7 +14,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Do sales figures vary between geographic regions?
 
 ## About The Data
-The data was provided by my data analytics course, **Career Foundry**. The data is a relational database containing infromation about Rockbuster's film inventory, customers, and payments, amoung other things.
+The data was provided by my data analytics course, **Career Foundry**. The data is a relational database containing infromation about Rockbuster's film inventory, customers, and payments, among other things.
 
 - [Click Here to Download Rockbusters data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
