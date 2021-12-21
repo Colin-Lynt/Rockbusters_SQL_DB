@@ -1,5 +1,5 @@
-# Rockbusters Stealth Data Analytics Project (SQL)
 ![image](https://user-images.githubusercontent.com/96442962/146993092-2788a01b-eaf0-4742-8087-457865253d93.png)
+# Rockbusters Stealth Data Analytics Project (SQL)
 
 ## About Rockbusters
 Rockbusters is a fictional company that has hired me as a data analyst to help launch an online video rental service to stay competitive. I work with the business intelligence department to help with the strategy for the new online video service by implementing SQL queries that identify customer, movie, and video rental patterns. I also analyze the data and answer any ad-hoc business questions other departments may have.
@@ -18,5 +18,5 @@ The data was provided by my data analytics course, **Career Foundry**. The data 
 
 - [Click Here to Download Rockbusters data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
-## Link to Tableau Repository
-
+## Link to Tableau Story Board
+- [Rockbusters Tableau Story Board Graphics](https://public.tableau.com/app/profile/colin8384/viz/FinalProject3_10Graphics/CustomersbyRegion).
